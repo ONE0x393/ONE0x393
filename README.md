@@ -13,4 +13,9 @@
 
 ![snake gif](https://github.com/jhw0900/jhw0900/blob/output/github-contribution-grid-snake.svg)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=arcojeong0915)](https://solved.ac/arcojeong0915/)
+
+<div align="center" style="display:inline">
+
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=arcojeong0915"/> &nbsp;
+
+</div>
